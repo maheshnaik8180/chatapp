@@ -1,4 +1,4 @@
 #!/bin/bash
 sudo systemctl daemon-reload
-sudo systemctl start django
-sudo systemctl enable django
+sudo systemctl start chatapp
+sudo systemctl enable chatapp
