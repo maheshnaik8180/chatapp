@@ -1,3 +1,3 @@
 #!/bin/bash
 sudo rm -f requirements.txt
-sudo systemctl stop chatapp
+sudo systemctl stop django
